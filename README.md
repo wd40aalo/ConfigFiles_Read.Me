@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techpark-119
+- 👋 Hi, I’m @wd40aalo, a crazy boy.
 - 👀 I’m interested in Computer Science and Engineering
 - 🌱 I’m currently learning PSDC (Profesional Software Development Course), and XII Computer Science.
 - 💞️ I’m looking to collaborate on Web Development, Software Development, Game Development, CyberSecurity, and Database Managements.
